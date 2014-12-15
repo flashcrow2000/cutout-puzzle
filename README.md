@@ -1,4 +1,4 @@
-cutout-puzzle
+Cut out puzzle engine
 =============
 
-a cutout puzzle engine
+A simple cutout puzzle engine.
